@@ -9,10 +9,10 @@ Course Name : HCIA-R&S
 
 </p>
 <hr>
-<p> • Designed the Network Using Huawei ENSP Simulator.
-    • We Have a Mian Router Represent The Main Campus Router Connected with Faculties (Also Represented By Sub-Routers)
-    • Each Faculty Had Labs Repersented with ( Switches )
-    • Each Switch Has a PC.</p>
+<p> • Designed the Network Using Huawei ENSP Simulator.<br>
+    • We Have a Mian Router Represent The Main Campus Router Connected with Faculties (Also Represented By Sub-Routers)<br>
+    • Each Faculty Had Labs Repersented with ( Switches )<br>
+    • Each Switch Has a PC.<br></p>
 <hr>
 <h2>Applied Protocols : </h2>
 <p>1.	OSPF</p>
