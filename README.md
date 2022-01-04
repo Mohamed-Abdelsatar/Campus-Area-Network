@@ -1,11 +1,11 @@
 # Campus-Area-Network
 <p>It's An Applied Project For Network Course Provided By Huawei e-Learning.
   
-Course Name : HCIA-R&S<br>
-  &nbsp; Included : <br>
-    1- HCIA-Routing & Switching V2.5 Entry Lab Guide<br>
-    2- HCIA-Routing & Switching V2.5 Training Guide<br>
-    3- HCIA-Routing & Switching V2.5 Intermediate Guide<br>
+Course Name : HCIA-R&S<br><br>
+  &nbsp; &nbsp; Included : <br>
+    &nbsp;&nbsp;&nbsp;1- HCIA-Routing & Switching V2.5 Entry Lab Guide<br>
+    &nbsp;&nbsp;&nbsp;2- HCIA-Routing & Switching V2.5 Training Guide<br>
+    &nbsp;&nbsp;&nbsp;3- HCIA-Routing & Switching V2.5 Intermediate Guide<br>
 
 </p>
 <hr>
