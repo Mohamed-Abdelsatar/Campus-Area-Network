@@ -3,7 +3,7 @@
   
 Course Name : HCIA-R&S<br><br>
   &nbsp; &nbsp; Included : <br>
-    &nbsp;&nbsp;&nbsp;1- Line Drawing Algorithms DDA (Digital Differential Analyzer)<br>
+    &nbsp;&nbsp;&nbsp;1- HCIA-Routing & Switching V2.5 Entry Lab Guide<br>
     &nbsp;&nbsp;&nbsp;2- HCIA-Routing & Switching V2.5 Training Guide<br>
     &nbsp;&nbsp;&nbsp;3- HCIA-Routing & Switching V2.5 Intermediate Guide<br>
 
